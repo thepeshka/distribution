@@ -32,6 +32,7 @@
 		<Compiler>
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
+			<Add option="-finput-charset=windows-1251" />
 		</Compiler>
 		<Unit filename="main.cpp" />
 		<Extensions>
