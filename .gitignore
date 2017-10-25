@@ -4,3 +4,5 @@ obj/*
 *.depend
 Debug/*
 */Debug/*
+.vs/*
+rasprwin32/x64/*
